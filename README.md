@@ -1,6 +1,5 @@
 ### Bem vindo ♥
-- 🌱 Estudante do bootcamp da Generation
-- 😄 Ela/Dela
+- Estudante do bootcamp da Generation
 ##
 <br>
 <div align="center">
