@@ -1,4 +1,4 @@
-<img align="right" alt="stars" height="254" style="border-radius:50px;" src="https://c.tenor.com/ViVV6oafqSUAAAAi/clouds-moon.gif">
+<img align="right" alt="stars" height="253" style="border-radius:50px;" src="https://c.tenor.com/ViVV6oafqSUAAAAi/clouds-moon.gif">
 
 ### Olá, eu sou Luiza ♥
 - :mortar_board: Cursando Análise e Desenvolvimento de Sistemas pela [UniFBV](https://www.wyden.com.br/unifbv)
