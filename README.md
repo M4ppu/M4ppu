@@ -26,6 +26,9 @@ Aprimorando skills em <img align="center" alt="reticencias" height="20" style="b
 • <img align="center" alt="spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
 • <img align="center" alt="mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 •
+<br>
+
+##
 
 ![snake gif](https://github.com/M4ppu/M4ppu/blob/output/github-contribution-grid-snake.svg)
 
