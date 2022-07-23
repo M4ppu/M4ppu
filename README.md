@@ -40,6 +40,6 @@ Aprimorando skills em <img align="center" alt="reticencias" height="20" style="b
 
 <img align="center" alt="stars" height="30" style="border-radius:50px;" src="https://static.wixstatic.com/media/c525cf_8f90da3392914643af48aee39acd0307~mv2.gif">Contato<img align="center" alt="stars" height="30" style="border-radius:50px;" src="https://static.wixstatic.com/media/c525cf_8f90da3392914643af48aee39acd0307~mv2.gif">
   
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luiza-lima-b1b348246/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 </div>
