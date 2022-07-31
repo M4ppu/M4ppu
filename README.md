@@ -12,7 +12,7 @@
 <br>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=M4ppu&theme=radical&include_all_commits=false&show_icons=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=M4ppu&theme=radical&include_all_commits=falsee&show_icons=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4ppu&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
