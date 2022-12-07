@@ -2,7 +2,8 @@
 
 ### Olá, eu sou Luiza ♥
 - :mortar_board: Cursando Análise e Desenvolvimento de Sistemas pela [UniFBV](https://www.wyden.com.br/unifbv)
-- :computer: Fazendo o bootcamp da [Generation](https://brazil.generation.org/) para ser desenvolvedora Full Stack Java Jr
+- :computer: Fiz o bootcamp da [Generation](https://brazil.generation.org/) em desenvolvedora Full Stack Java
+- :computer: Fazedo o programa de formação [Santander Coders](https://letscode.com.br/processos-seletivos/santander-coders) em Engenharia de Dados pela [Let's Code - Ada](https://letscode.com.br/)
 - :house_with_garden: Sou de Recife - PE!
 - :feet: Pronomes: Ela/Dela/She
 <br><br><br><br>
@@ -12,11 +13,11 @@
 <br>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=M4ppu&theme=radical&include_all_commits=falsee&show_icons=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=M4ppu&theme=radical&include_all_commits=true&show_icons=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4ppu&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-##
+<!-- ##
 
 <div align="center">
 <div style="display: inline_block"><br>
@@ -27,7 +28,7 @@ Aprimorando skills em <img align="center" alt="reticencias" height="20" style="b
 • <img align="center" alt="spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
 • <img align="center" alt="mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 •
-<br>
+<br> -->
 
 ##
 
