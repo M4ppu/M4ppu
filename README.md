@@ -2,8 +2,9 @@
 
 ### Olá, eu sou Luiza ♥
 - :mortar_board: Cursando Análise e Desenvolvimento de Sistemas pela [UniFBV](https://www.wyden.com.br/unifbv)
-- :computer: Fiz o bootcamp da [Generation](https://brazil.generation.org/) em desenvolvedora Full Stack Java
-- :computer: Fazedo o programa de formação [Santander Coders](https://letscode.com.br/processos-seletivos/santander-coders) em Engenharia de Dados pela [Let's Code - Ada](https://letscode.com.br/)
+- :computer_mouse: Fiz o bootcamp da [Generation](https://brazil.generation.org/) em desenvolvedora Full Stack Java
+- :computer: Fiz parte do programa de formação [Santander Coders](https://letscode.com.br/processos-seletivos/santander-coders) em Engenharia de Dados pela [Let's Code - Ada](https://letscode.com.br/)
+- :briefcase: Engenheira de Dados na [Prefeitura do Recife](https://www2.recife.pe.gov.br/)
 - :house_with_garden: Sou de Recife - PE!
 - :feet: Pronomes: Ela/Dela/She
 <br><br><br><br>
